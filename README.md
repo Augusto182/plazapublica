@@ -1,2 +1,3 @@
-# plazapublica
-Drupal 8 Open Social Network
+# Plaza Publica
+Informar, discutir y conocer juntas
+Drupal 8
