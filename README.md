@@ -1,5 +1,5 @@
 # Plaza Pública
-Informar, discutir y conocer juntas
+Informar, discutir y conocer juntas.
 ### www.plazapublica.com.co
 
-Drupal 8
+Drupal 8.
